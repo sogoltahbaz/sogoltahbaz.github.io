@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "پوررنگ آتشی"
+title                    : "sogoltahbaz"
 title_separator          : "-"
 name                     : "Poorang" 
 description              : "Welcome to my web site."
@@ -116,7 +116,7 @@ author:
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
   github: sauleh
-  instagram: saulehe
+  instagram: sogoltahbaz
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
