@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+* [زهرا عباسقلی](http://ZahraAbbasgholi.github.io)
+* [هلیا شمس زاده](http://HeliaShamszadeh.github.io)
+* [فاطمه شرح دهی مقدم](http://fatememoqadam.github.io)
 
 
 
