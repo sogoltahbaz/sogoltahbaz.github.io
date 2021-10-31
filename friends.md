@@ -9,11 +9,13 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [زهرا عباسقلی](http://ZahraAbbasgholi.github.io)
-* [هلیا شمس زاده](http://HeliaShamszadeh.github.io)
-* [فاطمه شرح دهی مقدم](http://fatememoqadam.github.io)
-* [شادی علی زرگرزاده](http://shadizargar.github.io)
-* [زهرا علی زاده](http://zahra121281.github.io)
+* [zahra abbasgholi](http://ZahraAbbasgholi.github.io)
+* [helia shamszadeh](http://HeliaShamszadeh.github.io)
+* [fateme moqadam](http://fatememoqadam.github.io)
+* [shadi alizargarzadeh](http://shadizargar.github.io)
+* [zahra alizadeh](http://zahra121281.github.io)
+* [masoomeh ghaffari](http://masoomehghaffari.github.io)
+* [mehrangizbaghi](http://mehrangizbaghi.github.io)
 
 
 
