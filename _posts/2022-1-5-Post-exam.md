@@ -9,3 +9,7 @@ title: سه نمونه از بهترین و بدترین خاطره های ای�
 -نرفتن به دانشگاه
 متاسفانه یک ترم گذاشت و ما هنوز اموزش مجازی داریم و یکی از بدترین اتفاقات همین است چون هیچوقت نتوانستم به دانشگاه بیایم و بچه هارا ببینم
 
+  - url: /assets/images/6.jpg
+    image_path: /assets/images/6.jpg
+    alt: "placeholder image 6"
+    title: "Image 6 title caption"   
